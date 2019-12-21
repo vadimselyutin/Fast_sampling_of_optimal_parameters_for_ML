@@ -2,7 +2,7 @@ import torch
 import torchvision.transforms as transforms
 from torchvision.datasets import MNIST
 import torch.nn as nn
-from hessian_eigenthings.lanczos_upd import lanczos
+from lanczos_upd import lanczos
 
 
 # ---------------------------------- Hessian-vector product operator----------------------------------
