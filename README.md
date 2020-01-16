@@ -1,5 +1,5 @@
 # Fast_sampling_of_optimal_parameters_for_ML
-For more info read project_report.pdf
+Please read project_report.pdf for more info.
 
 ## Skoltech NLA final project
 
